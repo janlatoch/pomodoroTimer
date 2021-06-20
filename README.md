@@ -1,5 +1,7 @@
 # PomodoroTimer
 
+Application available at: https://janlatoch.github.io/pomodoroTimer/
+
 ## Technologies
 * React 16.13
 * CSS3
